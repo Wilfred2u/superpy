@@ -1,0 +1,14 @@
+id,product_group,product_name,purchase_price,purchase_date,purchase_quantity,sale_price,sale_date,sale_quantity,expiration_date,stock_quantity,unit
+
+5638,vegetables,bell_pepper,1.0,2023-07-21,100,0,0,0,2023-08-03,100,pack
+
+7981,alcoholics,beer,6.49,2023-07-21,100,0,0,0,2023-12-21,100,crate
+
+9065,rice,long_grain,2.71,2023-07-22,40,0,0,0,2024-10-16,40,pack
+
+1460,soup,mushroomsoup,0.63,2023-07-22,25,0,0,0,2023-09-02,25,pack
+
+5283,drugstore,tooth_paste,0.49,2023-07-24,80,0,0,0,2024-07-18,80,tube
+
+3132,alcoholics,beer,6.49,2023-07-21,0,14.99,2023-07-24,38,2023-12-21,62,crate
+5250,drugstore,tooth_paste,0.49,2023-07-24,0,3.79,2023-07-24,6,2024-07-18,74,tube

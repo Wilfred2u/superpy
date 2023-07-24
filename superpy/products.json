@@ -1,0 +1,752 @@
+[
+    {
+        "product_group": "potatoes",
+        "product_name": "floury_potatoes",
+        "best_before_days": 32,
+        "unit": "bag"
+    },
+    {
+        "product_group": "potatoes",
+        "product_name": "waxy_potatoes",
+        "best_before_days": 30,
+        "unit": "bag"
+    },
+    {
+        "product_group": "potatoes",
+        "product_name": "potato_slices",
+        "best_before_days": 11,
+        "unit": "pack"
+    },
+    {
+        "product_group": "potatoes",
+        "product_name": "baby_potatoes",
+        "best_before_days": 12,
+        "unit": "pack"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "cucumber",
+        "best_before_days": 14,
+        "unit": "piece"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "cauliflower",
+        "best_before_days": 10,
+        "unit": "piece"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "bell_pepper",
+        "best_before_days": 10,
+        "unit": "pack"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "broccoli",
+        "best_before_days": 10,
+        "unit": "piece"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "green_beans",
+        "best_before_days": 12,
+        "unit": "pack"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "tomatoes",
+        "best_before_days": 15,
+        "unit": "pack"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "mushrooms",
+        "best_before_days": 8,
+        "unit": "pack"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "kohlrabi",
+        "best_before_days": 18,
+        "unit": "piece"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "spinach",
+        "best_before_days": 9,
+        "unit": "pack"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "eggplant",
+        "best_before_days": 10,
+        "unit": "piece"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "carrots",
+        "best_before_days": 9,
+        "unit": "pack"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "sweetcorn",
+        "best_before_days": 20,
+        "unit": "pack"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "sprouts",
+        "best_before_days": 15,
+        "unit": "pack"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "chicory",
+        "best_before_days": 21,
+        "unit": "pack"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "white_cabbage",
+        "best_before_days": 15,
+        "unit": "pack"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "red_cabbage",
+        "best_before_days": 15,
+        "unit": "piece"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "onions",
+        "best_before_days": 81,
+        "unit": "bag"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "red_onions",
+        "best_before_days": 74,
+        "unit": "bag"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "garlic",
+        "best_before_days": 70,
+        "unit": "bag"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "spring_onion",
+        "best_before_days": 20,
+        "unit": "pack"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "shallots",
+        "best_before_days": 52,
+        "unit": "bag"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "lettuce",
+        "best_before_days": 7,
+        "unit": "pack"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "iceberg_lettuce",
+        "best_before_days": 7,
+        "unit": "pack"
+    },
+    {
+        "product_group": "vegetables",
+        "product_name": "mixed_lettuce",
+        "best_before_days": 6,
+        "unit": "pack"
+    },
+    {
+        "product_group": "fruit",
+        "product_name": "bananas",
+        "best_before_days": 10,
+        "unit": "pack"
+    },
+    {
+        "product_group": "fruit",
+        "product_name": "strawberries",
+        "best_before_days": 7,
+        "unit": "pack"
+    },
+    {
+        "product_group": "fruit",
+        "product_name": "white_grapes",
+        "best_before_days": 15,
+        "unit": "pack"
+    },
+    {
+        "product_group": "fruit",
+        "product_name": "tangerines",
+        "best_before_days": 16,
+        "unit": "bag"
+    },
+    {
+        "product_group": "fruit",
+        "product_name": "apples",
+        "best_before_days": 18,
+        "unit": "pack"
+    },
+    {
+        "product_group": "fruit",
+        "product_name": "pears",
+        "best_before_days": 16,
+        "unit": "pack"
+    },
+    {
+        "product_group": "fruit",
+        "product_name": "red_grapes",
+        "best_before_days": 15,
+        "unit": "pack"
+    },
+    {
+        "product_group": "fruit",
+        "product_name": "cherries",
+        "best_before_days": 12,
+        "unit": "pack"
+    },
+    {
+        "product_group": "fruit",
+        "product_name": "nectarines",
+        "best_before_days": 10,
+        "unit": "pack"
+    },
+    {
+        "product_group": "fruit",
+        "product_name": "blueberries",
+        "best_before_days": 18,
+        "unit": "pack"
+    },
+    {
+        "product_group": "fruit",
+        "product_name": "raspberries",
+        "best_before_days": 14,
+        "unit": "pack"
+    },
+    {
+        "product_group": "fruit",
+        "product_name": "mango",
+        "best_before_days": 12,
+        "unit": "pack"
+    },
+    {
+        "product_group": "fruit",
+        "product_name": "kiwis",
+        "best_before_days": 16,
+        "unit": "pack"
+    },
+    {
+        "product_group": "fruit",
+        "product_name": "oranges",
+        "best_before_days": 15,
+        "unit": "bag"
+    },
+    {
+        "product_group": "fruit",
+        "product_name": "watermelon",
+        "best_before_days": 21,
+        "unit": "piece"
+    },
+    {
+        "product_group": "fruit",
+        "product_name": "pineapple",
+        "best_before_days": 16,
+        "unit": "piece"
+    },
+    {
+        "product_group": "fruit",
+        "product_name": "peaches",
+        "best_before_days": 10,
+        "unit": "pack"
+    },
+    {
+        "product_group": "herbs",
+        "product_name": "coriander",
+        "best_before_days": 11,
+        "unit": "pack"
+    },
+    {
+        "product_group": "herbs",
+        "product_name": "parsley",
+        "best_before_days": 12,
+        "unit": "pack"
+    },
+    {
+        "product_group": "herbs",
+        "product_name": "rosemary",
+        "best_before_days": 28,
+        "unit": "pack"
+    },
+    {
+        "product_group": "herbs",
+        "product_name": "dill",
+        "best_before_days": 12,
+        "unit": "pack"
+    },
+    {
+        "product_group": "herbs",
+        "product_name": "thyme",
+        "best_before_days": 25,
+        "unit": "pack"
+    },
+    {
+        "product_group": "herbs",
+        "product_name": "basil",
+        "best_before_days": 11,
+        "unit": "pack"
+    },
+    {
+        "product_group": "herbs",
+        "product_name": "mint",
+        "best_before_days": 16,
+        "unit": "pack"
+    },
+    {
+        "product_group": "herbs",
+        "product_name": "chives",
+        "best_before_days": 15,
+        "unit": "pack"
+    },
+    {
+        "product_group": "pork",
+        "product_name": "minced_meat",
+        "best_before_days": 4,
+        "unit": "pack"
+    },
+    {
+        "product_group": "pork",
+        "product_name": "sausage",
+        "best_before_days": 4,
+        "unit": "pack"
+    },
+    {
+        "product_group": "pork",
+        "product_name": "meatballs",
+        "best_before_days": 4,
+        "unit": "pack"
+    },
+    {
+        "product_group": "beef",
+        "product_name": "roast",
+        "best_before_days": 3,
+        "unit": "pack"
+    },
+    {
+        "product_group": "beef",
+        "product_name": "steak",
+        "best_before_days": 3,
+        "unit": "pack"
+    },
+    {
+        "product_group": "beef",
+        "product_name": "carpaccio",
+        "best_before_days": 2,
+        "unit": "pack"
+    },
+    {
+        "product_group": "chicken",
+        "product_name": "chicken_breast",
+        "best_before_days": 3,
+        "unit": "pack"
+    },
+    {
+        "product_group": "chicken",
+        "product_name": "chicken_legs",
+        "best_before_days": 4,
+        "unit": "pack"
+    },
+    {
+        "product_group": "fish",
+        "product_name": "salmon",
+        "best_before_days": 2,
+        "unit": "pack"
+    },
+    {
+        "product_group": "fish",
+        "product_name": "herring",
+        "best_before_days": 2,
+        "unit": "pack"
+    },
+    {
+        "product_group": "fish",
+        "product_name": "cod_fillet",
+        "best_before_days": 3,
+        "unit": "pack"
+    },
+    {
+        "product_group": "fish",
+        "product_name": "mackerel",
+        "best_before_days": 3,
+        "unit": "pack"
+    },
+    {
+        "product_group": "bread",
+        "product_name": "wheat_bread",
+        "best_before_days": 1,
+        "unit": "piece"
+    },
+    {
+        "product_group": "bread",
+        "product_name": "whole_grain bread",
+        "best_before_days": 1,
+        "unit": "piece"
+    },
+    {
+        "product_group": "bread",
+        "product_name": "sugar_loaf",
+        "best_before_days": 10,
+        "unit": "piece"
+    },
+    {
+        "product_group": "cheese",
+        "product_name": "young_cheese",
+        "best_before_days": 20,
+        "unit": "pack"
+    },
+    {
+        "product_group": "cheese",
+        "product_name": "old_cheese",
+        "best_before_days": 42,
+        "unit": "pack"
+    },
+    {
+        "product_group": "cheese",
+        "product_name": "brie",
+        "best_before_days": 8,
+        "unit": "pack"
+    },
+    {
+        "product_group": "cheese",
+        "product_name": "gruyere",
+        "best_before_days": 7,
+        "unit": "pack"
+    },
+    {
+        "product_group": "cheese",
+        "product_name": "roquefort",
+        "best_before_days": 7,
+        "unit": "pack"
+    },
+    {
+        "product_group": "dairy",
+        "product_name": "semi-skimmed_milk",
+        "best_before_days": 2,
+        "unit": "pack"
+    },
+    {
+        "product_group": "dairy",
+        "product_name": "full_milk",
+        "best_before_days": 2,
+        "unit": "pack"
+    },
+    {
+        "product_group": "dairy",
+        "product_name": "eggs",
+        "best_before_days": 15,
+        "unit": "pack"
+    },
+    {
+        "product_group": "dairy",
+        "product_name": "butter",
+        "best_before_days": 9,
+        "unit": "pack"
+    },
+    {
+        "product_group": "dairy",
+        "product_name": "low-fat_margarine",
+        "best_before_days": 36,
+        "unit": "pack"
+    },
+    {
+        "product_group": "dairy",
+        "product_name": "cream",
+        "best_before_days": 22,
+        "unit": "can"
+    },
+    {
+        "product_group": "dairy",
+        "product_name": "yogurt",
+        "best_before_days": 2,
+        "unit": "pack"
+    },
+    {
+        "product_group": "soup",
+        "product_name": "tomato_soup",
+        "best_before_days": 40,
+        "unit": "pack"
+    },
+    {
+        "product_group": "soup",
+        "product_name": "mushroomsoup",
+        "best_before_days": 40,
+        "unit": "pack"
+    },
+    {
+        "product_group": "soup",
+        "product_name": "goulash_soup",
+        "best_before_days": 48,
+        "unit": "pack"
+    },
+    {
+        "product_group": "soup",
+        "product_name": "chicken_soup",
+        "best_before_days": 40,
+        "unit": "pack"
+    },
+    {
+        "product_group": "sauces",
+        "product_name": "mayonnaise",
+        "best_before_days": 38,
+        "unit": "bottle"
+    },
+    {
+        "product_group": "sauces",
+        "product_name": "ketchup",
+        "best_before_days": 50,
+        "unit": "bottle"
+    },
+    {
+        "product_group": "sauces",
+        "product_name": "mustard_sauce",
+        "best_before_days": 46,
+        "unit": "bottle"
+    },
+    {
+        "product_group": "pasta",
+        "product_name": "fusilli",
+        "best_before_days": 140,
+        "unit": "pack"
+    },
+    {
+        "product_group": "pasta",
+        "product_name": "tagliatelle",
+        "best_before_days": 140,
+        "unit": "pack"
+    },
+    {
+        "product_group": "pasta",
+        "product_name": "spaghetti",
+        "best_before_days": 140,
+        "unit": "pack"
+    },
+    {
+        "product_group": "pasta",
+        "product_name": "penne",
+        "best_before_days": 140,
+        "unit": "pack"
+    },
+    {
+        "product_group": "pasta",
+        "product_name": "lasagne",
+        "best_before_days": 125,
+        "unit": "pack"
+    },
+    {
+        "product_group": "rice",
+        "product_name": "risotto",
+        "best_before_days": 400,
+        "unit": "pack"
+    },
+    {
+        "product_group": "rice",
+        "product_name": "pandan",
+        "best_before_days": 375,
+        "unit": "pack"
+    },
+    {
+        "product_group": "rice",
+        "product_name": "long_grain",
+        "best_before_days": 450,
+        "unit": "pack"
+    },
+    {
+        "product_group": "rice",
+        "product_name": "basmati",
+        "best_before_days": 350,
+        "unit": "pack"
+    },
+    {
+        "product_group": "spices",
+        "product_name": "salt",
+        "best_before_days": 600,
+        "unit": "tube"
+    },
+    {
+        "product_group": "spices",
+        "product_name": "black_pepper",
+        "best_before_days": 200,
+        "unit": "pack"
+    },
+    {
+        "product_group": "spices",
+        "product_name": "nutmeg",
+        "best_before_days": 160,
+        "unit": "pack"
+    },
+    {
+        "product_group": "spices",
+        "product_name": "clove",
+        "best_before_days": 120,
+        "unit": "pack"
+    },
+    {
+        "product_group": "spices",
+        "product_name": "cinnamon",
+        "best_before_days": 110,
+        "unit": "pack"
+    },
+    {
+        "product_group": "drinks",
+        "product_name": "coffee_beans",
+        "best_before_days": 180,
+        "unit": "pack"
+    },
+    {
+        "product_group": "drinks",
+        "product_name": "green_tea",
+        "best_before_days": 130,
+        "unit": "pack"
+    },
+    {
+        "product_group": "drinks",
+        "product_name": "coke",
+        "best_before_days": 45,
+        "unit": "bottle"
+    },
+    {
+        "product_group": "drinks",
+        "product_name": "sprite",
+        "best_before_days": 45,
+        "unit": "bottle"
+    },
+    {
+        "product_group": "drinks",
+        "product_name": "orange_juice",
+        "best_before_days": 30,
+        "unit": "bottle"
+    },
+    {
+        "product_group": "drinks",
+        "product_name": "chocolate_milk",
+        "best_before_days": 65,
+        "unit": "pack"
+    },
+    {
+        "product_group": "drinks",
+        "product_name": "water",
+        "best_before_days": 90,
+        "unit": "bottle"
+    },
+    {
+        "product_group": "drinks",
+        "product_name": "energy_drink",
+        "best_before_days": 140,
+        "unit": "can"
+    },
+    {
+        "product_group": "alcoholics",
+        "product_name": "beer",
+        "best_before_days": 150,
+        "unit": "crate"
+    },
+    {
+        "product_group": "alcoholics",
+        "product_name": "white_wine",
+        "best_before_days": 625,
+        "unit": "bottle"
+    },
+    {
+        "product_group": "alcoholics",
+        "product_name": "red_wine",
+        "best_before_days": 625,
+        "unit": "bottle"
+    },
+    {
+        "product_group": "detergent",
+        "product_name": "toilet_paper",
+        "best_before_days": 1000,
+        "unit": "pack"
+    },
+    {
+        "product_group": "detergent",
+        "product_name": "laundry_detergent",
+        "best_before_days": 1000,
+        "unit": "bottle"
+    },
+    {
+        "product_group": "detergent",
+        "product_name": "scouring_pad",
+        "best_before_days": 1000,
+        "unit": "pack"
+    },
+    {
+        "product_group": "pet food",
+        "product_name": "cat_food",
+        "best_before_days": 35,
+        "unit": "pack"
+    },
+    {
+        "product_group": "pet food",
+        "product_name": "dog_food",
+        "best_before_days": 36,
+        "unit": "pack"
+    },
+    {
+        "product_group": "pet food",
+        "product_name": "bird_food",
+        "best_before_days": 170,
+        "unit": "pack"
+    },
+    {
+        "product_group": "pet food",
+        "product_name": "fish_food",
+        "best_before_days": 200,
+        "unit": "can"
+    },
+    {
+        "product_group": "drugstore",
+        "product_name": "tooth_paste",
+        "best_before_days": 360,
+        "unit": "tube"
+    },
+    {
+        "product_group": "drugstore",
+        "product_name": "shampoo",
+        "best_before_days": 360,
+        "unit": "bottle"
+    },
+    {
+        "product_group": "drugstore",
+        "product_name": "conditioner",
+        "best_before_days": 300,
+        "unit": "pack"
+    },
+    {
+        "product_group": "drugstore",
+        "product_name": "shower_gel",
+        "best_before_days": 300,
+        "unit": "pack"
+    },
+    {
+        "product_group": "drugstore",
+        "product_name": "shaving_foam",
+        "best_before_days": 200,
+        "unit": "can"
+    },
+    {
+        "product_group": "drugstore",
+        "product_name": "razor_blades",
+        "best_before_days": 1000,
+        "unit": "pack"
+    }
+]
